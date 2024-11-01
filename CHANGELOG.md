@@ -2,6 +2,15 @@
 Here's all notable changes and commits to both the configuration repo and the base ZMK that the config repo builds against.
 
 Many thanks to all those who have submitted issues and pull requests to make this firmware better!
+
+## Personal Customizations
+
+**2024-10-31**
+  1. Used [GUI](https://kinesiscorporation.github.io/Adv360-Pro-GUI/) to swap 'Up' and 'Down' keys to match VIM (j/k) 
+     fingering.
+  2. Created directory `archived-firmware' to save the built artifacts.
+  3. Updated `.gitignore` to ignore IntelliJ IDEA project files.
+
 ## Config repo
 
 4/16/2024 - Fix changelog dates [#448](https://github.com/KinesisCorporation/Adv360-Pro-ZMK/pull/448)
